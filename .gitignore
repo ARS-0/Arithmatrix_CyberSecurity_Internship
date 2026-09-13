@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+secret.key
+keystrokes.log.enc
+*.env
+.DS_Store
