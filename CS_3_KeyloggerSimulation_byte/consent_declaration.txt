@@ -1,0 +1,31 @@
+SIGNED USAGE / CONSENT DECLARATION
+Ethical Keylogger Simulation — AVIP 2026 CyberSecurity Task 3
+
+I, [YOUR FULL NAME], declare that:
+
+1. This keylogger simulation was developed and tested EXCLUSIVELY on a
+   device that I personally own OR on a device for which I obtained
+   explicit, informed, written consent from the owner prior to testing.
+
+   Device used for testing: [e.g., "My personal laptop — Dell XPS 13"]
+   Owner (if not yourself): [N/A / Name]
+
+2. No third-party systems, shared/work computers, or devices belonging to
+   other individuals were used without their knowledge and consent.
+
+3. All captured keystroke data was stored locally in encrypted form only
+   (via the Fernet/AES scheme in `keylogger_sim.py`) and was purged using
+   the `--purge` command after this demonstration was recorded.
+
+4. This project is submitted purely for educational purposes as part of the
+   Arithmatrix Virtual Internship Program (AVIP) 2026, to demonstrate
+   understanding of input capture, secure local storage, and encryption —
+   NOT for surveillance of any other person.
+
+5. I understand that using this or similar software against a device
+   without the owner's consent may violate wiretapping, privacy, or
+   computer-misuse laws in my jurisdiction, and I take full responsibility
+   for ensuring my use of this code complies with all applicable laws.
+
+Signature: [Your Name / Typed Signature]
+Date:      [YYYY-MM-DD]
