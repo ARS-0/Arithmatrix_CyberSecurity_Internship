@@ -1,0 +1,3 @@
+Secret:  IULZUO3QUL3OSVNWKL6K6ONMDYOFOBES
+OTP:     384393
+Valid for another 12s (step size = 30s)

@@ -1,0 +1,18 @@
+=== RFC 4226 HOTP core test vectors ===
+[PASS] counter=0 expected=755224 actual=755224
+[PASS] counter=1 expected=287082 actual=287082
+[PASS] counter=2 expected=359152 actual=359152
+[PASS] counter=3 expected=969429 actual=969429
+[PASS] counter=4 expected=338314 actual=338314
+[PASS] counter=5 expected=254676 actual=254676
+[PASS] counter=6 expected=287922 actual=287922
+[PASS] counter=7 expected=162583 actual=162583
+[PASS] counter=8 expected=399871 actual=399871
+[PASS] counter=9 expected=520489 actual=520489
+10/10 HOTP vectors passed.
+
+=== TOTP generate -> verify round trip ===
+Generated OTP: 223749
+[PASS] Correct OTP accepted: True
+[PASS] Incorrect OTP rejected: True
+
