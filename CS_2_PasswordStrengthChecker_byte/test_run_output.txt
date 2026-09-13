@@ -1,0 +1,10 @@
+[PASS] 'password' -> got=Weak expected=Weak (score=2/6)
+[PASS] '123456' -> got=Weak expected=Weak (score=1/6)
+[PASS] 'aaaaaaaa' -> got=Weak expected=Weak (score=2/6)
+[PASS] 'Passw0rd' -> got=Moderate expected=Moderate (score=4/6)
+[PASS] 'Tr0ub4dor' -> got=Moderate expected=Moderate (score=4/6)
+[PASS] 'C0rrect-Horse-Battery' -> got=Strong expected=Strong (score=6/6)
+[PASS] 'MyS3cur3P@ssw0rd!' -> got=Strong expected=Strong (score=6/6)
+[PASS] 'Xk9#mL2$vQ7pR' -> got=Strong expected=Strong (score=6/6)
+
+8/8 test cases passed.
