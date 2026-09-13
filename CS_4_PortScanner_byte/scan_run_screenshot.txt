@@ -1,0 +1,4 @@
+[+] Scanning 127.0.0.1 — 10 port(s) — timeout=0.5s
+[+] Scan complete. 1 open port(s) found:
+    8000/tcp  open  (unknown)
+[+] Full results written to sample_scan_results.csv and sample_scan_results.json

@@ -1,0 +1,80 @@
+{
+  "scan_parameters": {
+    "host": "127.0.0.1",
+    "ports": "20-25,80,8000,8080,443",
+    "timeout": 0.5,
+    "scan_time": "2026-09-08T11:47:37.586343"
+  },
+  "results": [
+    {
+      "host": "127.0.0.1",
+      "port": 20,
+      "status": "closed",
+      "service_guess": "unknown",
+      "timestamp": "2026-09-08T11:47:37.586729"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 21,
+      "status": "closed",
+      "service_guess": "FTP",
+      "timestamp": "2026-09-08T11:47:37.586935"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 22,
+      "status": "closed",
+      "service_guess": "SSH",
+      "timestamp": "2026-09-08T11:47:37.587120"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 23,
+      "status": "closed",
+      "service_guess": "Telnet",
+      "timestamp": "2026-09-08T11:47:37.587293"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 24,
+      "status": "closed",
+      "service_guess": "unknown",
+      "timestamp": "2026-09-08T11:47:37.587475"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 25,
+      "status": "closed",
+      "service_guess": "SMTP",
+      "timestamp": "2026-09-08T11:47:37.587668"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 80,
+      "status": "closed",
+      "service_guess": "HTTP",
+      "timestamp": "2026-09-08T11:47:37.587742"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 443,
+      "status": "closed",
+      "service_guess": "HTTPS",
+      "timestamp": "2026-09-08T11:47:37.587862"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 8000,
+      "status": "open",
+      "service_guess": "unknown",
+      "timestamp": "2026-09-08T11:47:37.588918"
+    },
+    {
+      "host": "127.0.0.1",
+      "port": 8080,
+      "status": "closed",
+      "service_guess": "HTTP-Alt",
+      "timestamp": "2026-09-08T11:47:37.589151"
+    }
+  ]
+}
